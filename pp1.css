@@ -1,3 +1,84 @@
-p{
-    color: brown;
+*{
+    font-family:'poppins',sans-serif;
+    margin: 0;
 }
+
+.logo{
+    border-radius: 50%;
+    border:3px solid tomato;
+}
+
+.sec-one{
+    display: flex;
+    padding:10px 30px;
+    /* background-image:url(image/back.jpg); */
+    /* background-repeat: no-repeat; */
+    background-image:
+}
+
+.d1{
+    width: 75%;
+    padding:20px 9px;
+    align-items:flex-end;
+}
+
+.img1{
+    width:75%;
+    border-radius:50%;
+    
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    color: rgb(165, 42, 112);
+    font-size: 20px;
+}
+
+.CE{
+    font-size: 20px;
+    color: blue;
+}
+
+.knowme {
+    text-decoration:none;
+    background-color: rgb(255, 0, 238);
+    padding:3px 9px;
+    border-radius:9px;
+    color: white;
+}
+.sec-two{
+    padding: 9px 5px 3px 20px;
+    display: flex;
+    padding-top:20%;
+    /* background-image:url(image/back.jpg); */
+}
+.img2{
+    width:300px;
+    border-radius:50%;
+}
+
+.about{
+    color:black;
+    /* padding-right:20px 20px; */
+    /* background-color: blueviolet; */
+    box-shadow:9px;
+}
+
+h4{
+   /* background-color:rgb(0, 208, 255); */
+   color:red;
+   padding:9px 50px 20px;
+   width: 90%;
+}
+
+/* .contact{
+    background-color: blueviolet;
+    border-radius: 20px;
+    width:20%;
+    padding:5px;
+    color: white;
+} */
